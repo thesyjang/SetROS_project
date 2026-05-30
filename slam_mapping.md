@@ -43,10 +43,13 @@ ros2 run turtlebot3_teleop teleop_keyboard
 
 에러발생시 입력
 export TURTLEBOT3_MODEL=burger
+
 <img width="1455" height="922" alt="image-2" src="https://github.com/user-attachments/assets/18719330-542e-4ca3-abcf-fb49ceb6ae61" />
 
 cmd창 누르고 이동
+
 <img width="455" height="467" alt="image-3" src="https://github.com/user-attachments/assets/394555ab-fb59-4eb9-b048-d5fa920dc2c4" />
+
 지도 제작됨 
 
 그후 저장후 끝
