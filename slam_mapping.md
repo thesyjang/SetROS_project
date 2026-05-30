@@ -35,12 +35,24 @@ rviz설정
 2. Add 버튼 -> By topic 탭 -> /map, /scan 추가
 3. /tf 도 추가
    
-!image.png
+<img width="677" height="273" alt="image" src="https://github.com/user-attachments/assets/c62e7b90-938e-45fc-8754-d37e6f81138b" />
+
 
 Teleop으로 로봇 조종 (맵핑 시작) 
 ros2 run turtlebot3_teleop teleop_keyboard
 
 에러발생시 입력
-
 export TURTLEBOT3_MODEL=burger
+<img width="1455" height="922" alt="image-2" src="https://github.com/user-attachments/assets/18719330-542e-4ca3-abcf-fb49ceb6ae61" />
 
+cmd창 누르고 이동
+<img width="455" height="467" alt="image-3" src="https://github.com/user-attachments/assets/394555ab-fb59-4eb9-b048-d5fa920dc2c4" />
+지도 제작됨 
+
+그후 저장후 끝
+
+
+
+
+
+export TURTLEBOT3_MODEL=
